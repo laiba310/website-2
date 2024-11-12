@@ -26,14 +26,7 @@ const Header = () => {
 
                     <li>projects</li>
                     <li>Blog</li>
-                
-                    <Image 
-                        className="logo"
-                        src="/Search.png"
-                        alt=" image"
-                        width={20}
-                        height={30}
-                    />
+               
                 </ul>
 
             </nav>

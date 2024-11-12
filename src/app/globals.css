@@ -140,6 +140,7 @@ nav {
     padding-left: 2rem; 
     padding-right: 2rem; 
   }
+ 
 
   .nav1 {
     margin-right: 0; 
@@ -162,6 +163,7 @@ nav {
   .hero-content {
     margin-left: 1rem; 
   }
+
 
   .hero-section h1 {
     font-size: 48px; 
@@ -941,7 +943,6 @@ padding: 15px 30px 15px 30px;
   gap: 30px; 
   width: 100%;
 }
-
 .input,
 .textarea {
   border: none;
@@ -983,12 +984,13 @@ padding: 15px 30px 15px 30px;
     }
     .input, .textarea, .form button{
       width: 100%;
-      margin-left: 1rem;
+      margin-left: 0rem;
     }
     .about {
       width: 90%;
       margin-left: 1rem;
   }
+
   }
   .bg6{
     background-image: url('/Rectangle 20.png');
